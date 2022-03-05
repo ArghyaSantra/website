@@ -1,0 +1,13 @@
+.btnWithLogo {
+  display: flex;
+  align-items: center;
+  border: 1px solid;
+  border-radius: 50%;
+  width: min-content;
+  padding: 10px;
+  color: blueviolet;
+}
+
+.logo {
+  font-size: 1.25em;
+}

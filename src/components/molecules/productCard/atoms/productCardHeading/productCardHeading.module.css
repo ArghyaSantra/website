@@ -1,0 +1,8 @@
+.cardHeading {
+  display: flex;
+  justify-content: center;
+}
+
+.mainHeading {
+  font-size: 1.35rem;
+}

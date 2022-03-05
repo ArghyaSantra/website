@@ -1,0 +1,16 @@
+.contactInfoDetailsSection {
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10px;
+}
+
+.btnDetailGroup {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 10px;
+}
+
+.info {
+  margin-left: 20px;
+}

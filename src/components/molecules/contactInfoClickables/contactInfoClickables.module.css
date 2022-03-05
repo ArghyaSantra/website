@@ -1,0 +1,5 @@
+.contactInfoBar {
+  display: flex;
+  justify-content: space-around;
+  max-height: 50px;
+}
